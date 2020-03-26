@@ -1,5 +1,5 @@
 # node
-The Local Training Node for The Sentinel AI
+The Decentralized Computation Node for The Chiron Network
 
 ## 1. Installation
 1. Python Dependencies ```pip3 install -r requirements.txt```
